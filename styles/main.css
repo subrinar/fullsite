@@ -5,7 +5,7 @@
 
 body {
 	background: #000 url('../images/background.jpg');
-	font-family: font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
 	color: #333;
 }
 
@@ -22,6 +22,7 @@ header {
 	padding-bottom: 25px;
 	background-color: pink;
 }
+
 
 header h1 {
 	float: left;
@@ -42,6 +43,10 @@ section {
 	
 }
 
+article {
+	float: left;
+	margin-top: 25px;
+}
 aside {
 	width:35%;
 	float: right;

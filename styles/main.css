@@ -20,7 +20,6 @@ header {
 	width: 100%;
 	float: left;
 	padding-bottom: 25px;
-	background-color: pink;
 }
 
 
@@ -40,7 +39,6 @@ header nav ul li {
 section {
 	width: 65%;
 	float:left;
-	
 }
 
 article {
@@ -50,7 +48,6 @@ article {
 aside {
 	width:35%;
 	float: right;
-	background-color: white;
 }
 
 .left {
@@ -62,11 +59,10 @@ aside {
 	float: left;
 	margin-right: 10px;
 }
+
 footer {
 	width: 100%;
 	clear: both;
-	background-color: yellow;
-
 }
 
 

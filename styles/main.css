@@ -16,13 +16,53 @@ body {
 	padding: 25px;
 }
 
+header {
+	width: 100%;
+	float: left;
+	padding-bottom: 25px;
+	background-color: pink;
+}
 
+header h1 {
+	float: left;
+}
 
+header nav {
+	float: right;
+}
 
+header nav ul li {
+	display: inline;
+	margin: 0 10px;
+}
 
+section {
+	width: 65%;
+	float:left;
+	
+}
 
+aside {
+	width:35%;
+	float: right;
+	background-color: white;
+}
 
+.left {
+	float: left;
+	margin-right: 10px;
+}
 
+.right {
+	float: left;
+	margin-right: 10px;
+}
+footer {
+	width: 100%;
+	clear: both;
+	background-color: yellow;
+
+}
 
 
 
